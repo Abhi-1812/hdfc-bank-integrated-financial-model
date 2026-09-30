@@ -450,6 +450,5 @@ The forecasts, valuation outputs, assumptions and transaction scenarios are mode
 
 Finance / Financial Modeling Portfolio
 
-GitHub: [Your GitHub Profile]
+LinkedIn: www.linkedin.com/in/abhinavv-dubey18
 
-LinkedIn: [Your LinkedIn Profile]
